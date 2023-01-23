@@ -1,3 +1,5 @@
 function calc() {
-  let euro;
+  let euro = input_euro.value;
+  let result = euro * 0.98;
+  input_usd.value = result;
 }
