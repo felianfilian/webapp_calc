@@ -53,3 +53,12 @@ input {
   align-items: center;
   justify-content: center;
 }
+
+.currency {
+  color: rgb(159, 159, 255);
+  font-size: 20px;
+  font-weight: 700;
+
+  position: absolute;
+  right: 100px;
+}
