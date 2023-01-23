@@ -20,6 +20,7 @@ input {
   flex: 1;
   font-size: 24px;
   padding-left: 100px;
+  text-align: center;
 
   height: 60px;
 }
