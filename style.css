@@ -49,6 +49,8 @@ input {
   padding-right: 32px;
   padding-left: 32px;
 
+  position: relative;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -60,5 +62,12 @@ input {
   font-weight: 700;
 
   position: absolute;
-  right: 100px;
+  right: 42px;
+  bottom: 24px;
+}
+
+.compare_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
